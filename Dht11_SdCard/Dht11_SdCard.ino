@@ -1,8 +1,8 @@
-                /* Hourly temperature data analysis project with Matlab and arudino
-                 *  Project tutorial url:
-                 *  Project tutorial YOUTUBE :
+                /* Hourly temperature data analysis project with Matlab and arudino  
+                 *
+                 *  Project tutorial YOUTUBE :https://www.youtube.com/watch?v=s3WkSCQnHnA
                  *  
-                 *  by Halil Gök :
+                 *  by Halil Gök :https://embeddedsystemshalilgk.wordpress.com
                  *  
                   */
 
